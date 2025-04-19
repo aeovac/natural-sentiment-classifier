@@ -1,0 +1,9 @@
+{
+  "name": "simple",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "natural": "^8.0.1"
+  }
+}
