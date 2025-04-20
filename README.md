@@ -1,6 +1,6 @@
 # Sentimental
 
-A minimalist sentiment classifier powered by Natural.js.
+A minimalist sentiment classifier powered by Natural and Bun.
 
 **Dataset**: [Twitter Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)
 
